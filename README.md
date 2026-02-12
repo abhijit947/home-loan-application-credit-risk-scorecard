@@ -19,4 +19,5 @@ KS: 0.28
 
 **Business Impact:**
 Approving Deciles 1–7 removes ~30% of portfolio while eliminating ~54% of bad loans.
+
 Full methodology and documentation available in the project report.
